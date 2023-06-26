@@ -1,0 +1,9 @@
+CRITICAL - 2022-04-14 10:20:02 --> unlink(img/deafaul.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(img/deaf...', 'C:\\xampp\\htdocs...', 206, Array)
+#1 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(206): unlink('img/deafaul.jpg')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('53')
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#4 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}

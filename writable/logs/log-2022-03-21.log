@@ -1,0 +1,1162 @@
+CRITICAL - 2022-03-21 09:17:32 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 09:19:27 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 09:19:36 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 09:58:31 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:04:14 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 10:04:45 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 10:04:46 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 10:04:47 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 10:04:50 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 10:05:59 --> Undefined variable: judul
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 10:06:29 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:07:17 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:07:25 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:09:07 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:17:24 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:36:07 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:36:09 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:39:49 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:41:06 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:41:36 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:44:10 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:44:26 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('7')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:46:57 --> Undefined index: 
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:47:31 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 10:56:22 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:00:57 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:01:12 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:02:04 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:03:22 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:03:28 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:06:31 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:19:32 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:20:22 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('8')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:24:26 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('8')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:27:10 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('8')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:27:17 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('8')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:28:51 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('7')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-03-21 11:29:04 --> Table 'master.book' doesn't exist
+CRITICAL - 2022-03-21 11:29:04 --> Table 'master.book' doesn't exist
+#0 C:\xampp\htdocs\tokobuku\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tokobuku\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tokobuku\app\Models\BookModel.php(27): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(27): App\Models\BookModel->getBook()
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->index()
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#9 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-03-21 11:30:13 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:48:10 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-03-21 11:50:56 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-03-21 11:50:56 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\tokobuku\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\tokobuku\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\tokobuku\app\Models\MajalahModel.php(28): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(90): App\Models\MajalahModel->getMajalah('assa')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('assa')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 11:50:56 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\xampp\htdocs\tokobuku\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\tokobuku\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Majalah), true)
+#2 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(234): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-03-21 11:51:08 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-03-21 11:51:08 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\tokobuku\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\tokobuku\app\Models\MajalahModel.php(27): CodeIgniter\Model->__call('get', Array)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(27): App\Models\MajalahModel->getMajalah()
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->index()
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 11:51:08 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\xampp\htdocs\tokobuku\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\tokobuku\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Majalah), true)
+#2 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(234): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\xampp\htdocs\tokobuku\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-21 11:51:15 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:53:51 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:54:02 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:54:31 --> Undefined index: title
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:55:06 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:55:13 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:56:21 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:56:27 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:58:11 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:58:21 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:59:34 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 11:59:52 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:00:20 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:01:23 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:02:38 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:02:43 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:04:45 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:04:59 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:05:09 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 7')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:05:18 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:07:43 --> Use of undefined constant judul - assumed 'judul' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:08:05 --> Undefined index: slug
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:09:38 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:13:27 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 5')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:15:24 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:19:18 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update(' 6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:19:26 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:19:44 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:20:16 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:24:17 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:25:33 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:25:53 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:26:02 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:26:59 --> Class 'CodeIgniter\Exeptions\PageNotFoundExeption' not found
+#0 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-baru')
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-21 12:27:25 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:36:01 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:37:31 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:38:12 --> Undefined variable: judul
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-barsasasa...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 12:39:03 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 12:39:05 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-barsasasa...')
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-21 12:39:34 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-barsasasa...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 12:39:35 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(101): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-barsasasa...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:00:03 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:00:13 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:00:20 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:00:26 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:00:31 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:00:39 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:01:01 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:01:07 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('4')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:03:23 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:03:42 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:04:45 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:05:38 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:05:44 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:06:13 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:06:24 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('6')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:06:49 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:06:57 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:12:38 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('3')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:14:33 --> Class 'CodeIgniter\Exception\PageNotFoundException' not found
+#0 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('assa')
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-21 13:14:39 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:14:57 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:15:33 --> Undefined index: judul
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->update('2')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-21 13:15:39 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:15:43 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:43 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:44 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:44 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:45 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:48 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-b5')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:51 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:54 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:55 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:18:58 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:21:22 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:21:28 --> Undefined index: majalah_category_id
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\edit.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/edit', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(97): view('majalah/edit', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 13:21:56 --> Class 'CodeIgniter\Exception\PageNotFoundException' not found
+#0 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('majalah-a45')
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-03-21 13:22:05 --> Table 'master.book_category' doesn't exist
+CRITICAL - 2022-03-21 13:22:05 --> Table 'master.book_category' doesn't exist
+#0 C:\xampp\htdocs\tokobuku\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tokobuku\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tokobuku\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(93): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('wajah-barusaas')
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#9 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-03-21 13:23:33 --> Class 'CodeIgniter\Exception\PageNotFoundException' not found
+#0 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->edit('assa')
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-21 18:36:21 --> Undefined index: kategori
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\detail.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/detail', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(35): view('majalah/detail', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->detail('wajah-barus')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-21 18:36:56 --> Undefined index: name_categorys
+#0 C:\xampp\htdocs\tokobuku\app\Views\majalah\detail.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('majalah/detail', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Majalah.php(35): view('majalah/detail', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Majalah->detail('wajah-barus')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Majalah))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

@@ -1,0 +1,186 @@
+CRITICAL - 2022-02-28 18:23:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:25:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:30:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:31:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 18:31:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\xampp\htdocs\tokobuku\codeigniter4-CodeIgniter4-202f41a\public\index.php(28): require('C:\\xampp\\xampp\\...')
+#4 {main}
+CRITICAL - 2022-02-28 20:34:05 --> syntax error, unexpected '$routes' (T_VARIABLE)
+#0 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}

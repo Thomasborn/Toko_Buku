@@ -1,0 +1,181 @@
+ERROR - 2022-03-12 01:22:59 --> Unknown column 'book.deleted_at' in 'where clause'
+CRITICAL - 2022-03-12 01:22:59 --> Unknown column 'book.deleted_at' in 'where clause'
+#0 C:\xampp\htdocs\tokobuku\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tokobuku\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tokobuku\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\tokobuku\app\Models\BookModel.php(27): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(90): App\Models\BookModel->getBook('mencari-cahaya')
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->edit('mencari-cahaya')
+#9 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#10 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-03-12 01:23:32 --> Unknown column 'book.deleted_at' in 'where clause'
+CRITICAL - 2022-03-12 01:23:32 --> Unknown column 'book.deleted_at' in 'where clause'
+#0 C:\xampp\htdocs\tokobuku\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tokobuku\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tokobuku\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tokobuku\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tokobuku\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\tokobuku\app\Models\BookModel.php(27): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(90): App\Models\BookModel->getBook('mencari-cahaya')
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->edit('mencari-cahaya')
+#9 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#10 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-03-12 01:26:15 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('container/tugas...', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\contain.php(10): view('container/tugas...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\contain->index()
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contain))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-12 01:53:43 --> Undefined index: tahun
+#0 C:\xampp\htdocs\tokobuku\app\Views\book\detail.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('book/detail', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(44): view('book/detail', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->detail('wajah')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-12 01:57:12 --> Undefined index: relase_year
+#0 C:\xampp\htdocs\tokobuku\app\Views\book\detail.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('book/detail', Array, true)
+#4 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(44): view('book/detail', Array)
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->detail('wajah')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-12 02:18:24 --> Argument 1 passed to url_title() must be of the type string, null given, called in C:\xampp\htdocs\tokobuku\app\Controllers\Book.php on line 129
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(129): url_title(NULL, '-', true)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->update('1')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:08:24 --> Undefined variable: routes
+#0 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\tokobuku\system\Router\RouteCollection.php(607): CodeIgniter\CodeIgniter->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+#2 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(49): CodeIgniter\Router\RouteCollection->group('book', Object(Closure))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-12 03:08:31 --> Undefined variable: routes
+#0 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\tokobuku\system\Router\RouteCollection.php(607): CodeIgniter\CodeIgniter->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+#2 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(49): CodeIgniter\Router\RouteCollection->group('book', Object(Closure))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-12 03:08:35 --> Undefined variable: routes
+#0 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\tokobuku\system\Router\RouteCollection.php(607): CodeIgniter\CodeIgniter->Config\{closure}(Object(CodeIgniter\Router\RouteCollection))
+#2 C:\xampp\htdocs\tokobuku\app\Config\Routes.php(49): CodeIgniter\Router\RouteCollection->group('book', Object(Closure))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-12 03:08:46 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('container/tugas...', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\contain.php(10): view('container/tugas...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\contain->index()
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contain))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-12 03:09:12 --> Undefined variable: title
+#0 C:\xampp\htdocs\tokobuku\app\Views\layout\template.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\tokobuku\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\tokobuku\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\tokobuku\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\tokobuku\system\Common.php(1089): CodeIgniter\View\View->render('container/tugas...', Array, true)
+#5 C:\xampp\htdocs\tokobuku\app\Controllers\contain.php(10): view('container/tugas...')
+#6 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\contain->index()
+#7 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contain))
+#8 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-03-12 03:11:07 --> Undefined variable: id
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(147): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 147, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('21')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:19:11 --> Undefined variable: slug
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 148, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('24')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:22:46 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(153): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('20')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:25:53 --> Undefined variable: result
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(153): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('32')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:27:31 --> Undefined variable: result
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(153): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('34')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-12 03:40:42 --> Undefined variable: result
+#0 C:\xampp\htdocs\tokobuku\app\Controllers\Book.php(154): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 154, Array)
+#1 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(832): App\Controllers\Book->delete('31')
+#2 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#3 C:\xampp\htdocs\tokobuku\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tokobuku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tokobuku\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
